@@ -1,0 +1,6 @@
+pandas
+pydantic
+pdfplumber
+pytesseract
+Pillow
+numpy
